@@ -1,15 +1,14 @@
 ## Getting started
 * `npm i`
-* `npm i -g mocha`
 
-## Todo
-
-create a basic server with express
-that will send back the index.html file on a GET request to '/'
-it should then send back jsonData on a GET to /data
+## App
+functional API with Node.js and the Express.js framework. You’ll learn about querying, data modeling, security, authentication,
 
 ## Start App 
 * `npm start`
 
-## Run Tests
-* `npm test`
+## API Routes 
+
+api/users
+api/categories
+api/posts
