@@ -2,7 +2,7 @@
 * `npm i`
 
 ## App
-functional API with Node.js and the Express.js framework. You’ll learn about querying, data modeling, security, authentication,
+functional API with Node.js and the Express.js framework. Querying, data modeling, security, authentication,
 
 ## Start App 
 * `npm start`
