@@ -12,7 +12,7 @@ var PostSchema = new Schema({
     type: String,
     required: true
   },
-  // array of ids from the users
+
   author: {type: Schema.Types.ObjectId, ref: 'user'},
 
   categories: [{type: Schema.Types.ObjectId, ref: 'category'}]
