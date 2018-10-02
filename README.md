@@ -6,7 +6,10 @@
 functional API with Node.js and the Express.js framework. Querying, data modeling, security, authentication,
 
 ## Start App 
-* `npm start`
+* cmd mongod
+* `npm start`   for api project
+*  `npm start` for client project
+* you can find client proj in  git repo under the blog branch https://github.com/FrontendMasters/angular-components/tree/blog
 
 ## API Routes 
 
