@@ -19,7 +19,7 @@
     "jsonwebtoken": "^5.0.4",
     "lodash": "^4.17.11",
     "method-override": "^2.3.4",
-    "mongoose": "^4.0.8",
+    "mongoose": "^5.7.5",
     "morgan": "^1.6.1"
   },
   "devDependencies": {
